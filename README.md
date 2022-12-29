@@ -7,8 +7,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contribution](#contribution)
-- [Questions](#questions)
 
 ## Description:
 
